@@ -1,0 +1,2 @@
+var pcloginConfig = {"id":23,"page_action":"https:\/\/www.mi.com\/a\/h\/6720.html?client_id=180100041086&masid=17409.0425","page_url":"https:\/\/i8.mifile.cn\/b2c-mimall-media\/9e509030787578dfac22c6fe8935c89d.jpg","block_id":3316045};
+//_t=0818202005
